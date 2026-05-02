@@ -157,7 +157,7 @@ For bug reports, feature requests, or questions, please use the GitHub Issues se
 
 ## License
 
-This software is released under the GPL License. You are free to use, modify, and distribute it according to the license terms.
+This software is released under the GPL v3.0 License. You are free to use, modify, and distribute it according to the license terms.
 
 ---
 
