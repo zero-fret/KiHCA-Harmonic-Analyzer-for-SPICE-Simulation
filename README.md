@@ -1,4 +1,4 @@
-# Harmonic Analyzer for SPICE Simulation
+# KiHCA - Harmonic Analyzer for SPICE Simulation
 
 A professional harmonic analysis tool designed specifically for analyzing SPICE simulation export data. Based on the least squares method, this tool performs accurate harmonic decomposition of periodic signals and calculates key metrics including harmonic amplitudes, phases, and Total Harmonic Distortion (THD).
 
